@@ -3,7 +3,7 @@ description: Suggest an idea for advanced peripherals
 body:
   - type: textarea
     attributes:
-      label: Describe your idea
+      label: Describe your idea (If you have more than one idea, please open the rest in other issues)
       description: A clear and detailed description of your idea
     validations:
       required: true
